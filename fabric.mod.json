@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "ambience_discs",
+	"version": "1.0.0",
+	"name": "Ambience Discs",
+	"description": "A mod that adds Minecraft's ambient background music as playable music discs.",
+	"authors": [
+		"Chakallzinho"
+	],
+	"contact": {
+		"sources": "https://github.com/Chakallzinho/Ambience-Discs"
+	},
+	"custom": {
+		"modmenu": {
+			"links": {
+				"modmenu.discord": "https://discord.com/users/315552549933678593"
+			}
+		}
+	},
+	"license": "CC-BY-NC",
+	"icon": "assets/ambience_discs/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"ambience.discs.mod.AmbienceDiscs"
+		],
+		"fabric-datagen": [
+			"ambience.discs.mod.AmbienceDiscsDataGenerator"
+		]
+	},
+	"mixins": [
+		"ambience_discs.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

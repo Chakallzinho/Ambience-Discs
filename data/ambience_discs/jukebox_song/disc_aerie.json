@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.aerie"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_aerie.desc"
+  },
+  "length_in_seconds": 297,
+  "comparator_output": 1
+}

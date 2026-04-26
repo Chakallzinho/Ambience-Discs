@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.dragon_fish"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_dragon_fish.desc"
+  },
+  "length_in_seconds": 373,
+  "comparator_output": 1
+}

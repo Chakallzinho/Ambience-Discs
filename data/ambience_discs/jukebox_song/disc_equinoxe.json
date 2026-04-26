@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.equinoxe"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_equinoxe.desc"
+  },
+  "length_in_seconds": 115.0,
+  "comparator_output": 1
+}

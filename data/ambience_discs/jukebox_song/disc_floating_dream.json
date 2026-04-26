@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.floating_dream"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_floating_dream.desc"
+  },
+  "length_in_seconds": 206,
+  "comparator_output": 1
+}

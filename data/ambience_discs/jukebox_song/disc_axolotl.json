@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.axolotl"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_axolotl.desc"
+  },
+  "length_in_seconds": 304,
+  "comparator_output": 1
+}

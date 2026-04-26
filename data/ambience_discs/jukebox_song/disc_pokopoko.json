@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.pokopoko"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_pokopoko.desc"
+  },
+  "length_in_seconds": 305,
+  "comparator_output": 1
+}

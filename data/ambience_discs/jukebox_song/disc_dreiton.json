@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.dreiton"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_dreiton.desc"
+  },
+  "length_in_seconds": 497.0,
+  "comparator_output": 1
+}

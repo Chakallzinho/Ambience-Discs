@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.bromeliad"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_bromeliad.desc"
+  },
+  "length_in_seconds": 313,
+  "comparator_output": 1
+}

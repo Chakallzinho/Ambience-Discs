@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.os_piano"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_os_piano.desc"
+  },
+  "length_in_seconds": 276,
+  "comparator_output": 1
+}

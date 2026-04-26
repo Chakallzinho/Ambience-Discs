@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.a_familiar_room"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_a_familiar_room.desc"
+  },
+  "length_in_seconds": 242,
+  "comparator_output": 1
+}

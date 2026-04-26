@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.door"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_door.desc"
+  },
+  "length_in_seconds": 112.0,
+  "comparator_output": 1
+}

@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.floating_trees"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_floating_trees.desc"
+  },
+  "length_in_seconds": 245.0,
+  "comparator_output": 1
+}

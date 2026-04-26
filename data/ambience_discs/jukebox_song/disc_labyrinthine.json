@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.labyrinthine"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_labyrinthine.desc"
+  },
+  "length_in_seconds": 325,
+  "comparator_output": 1
+}

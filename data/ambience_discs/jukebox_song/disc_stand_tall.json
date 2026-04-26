@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.stand_tall"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_stand_tall.desc"
+  },
+  "length_in_seconds": 309,
+  "comparator_output": 1
+}

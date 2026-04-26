@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.beginning"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_beginning.desc"
+  },
+  "length_in_seconds": 103.0,
+  "comparator_output": 1
+}

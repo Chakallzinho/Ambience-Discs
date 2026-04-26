@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.dead_voxel"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_dead_voxel.desc"
+  },
+  "length_in_seconds": 296.0,
+  "comparator_output": 1
+}

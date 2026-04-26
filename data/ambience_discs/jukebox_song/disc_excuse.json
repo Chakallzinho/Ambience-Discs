@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.excuse"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_excuse.desc"
+  },
+  "length_in_seconds": 125.0,
+  "comparator_output": 1
+}

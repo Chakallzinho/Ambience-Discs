@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "ambience_discs:disc.droopy_likes_your_face"
+  },
+  "description": {
+    "translate": "item.ambience_discs.disc_droopy_likes_your_face.desc"
+  },
+  "length_in_seconds": 117.0,
+  "comparator_output": 1
+}
